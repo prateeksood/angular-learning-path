@@ -1,5 +1,8 @@
 # angular-learning-path
 
+## SPA
+https://www.bloomreach.com/en/blog/2018/what-is-a-single-page-application
+
 ## angular vs react
 https://www.imaginarycloud.com/blog/angular-vs-react/
 
