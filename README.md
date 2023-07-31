@@ -20,3 +20,4 @@ https://dotnettutorials.net/lesson/styling-angular-components/
 
 ## Binding
 https://angular.io/guide/architecture-components
+https://dotnettutorials.net/lesson/data-binding-in-angular/
