@@ -12,7 +12,7 @@ https://www.freecodecamp.org/news/how-to-install-angular-on-windows-a-guide-to-a
 ## file structure 
 https://www.c-sharpcorner.com/article/learn-components-in-angular-for-beginners-part-two/
 
-## Componenets
+## Components
 https://dotnettutorials.net/lesson/angular-components/
 
 ## Styling component
