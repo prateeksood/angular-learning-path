@@ -15,5 +15,8 @@ https://www.c-sharpcorner.com/article/learn-components-in-angular-for-beginners-
 ## Componenets
 https://dotnettutorials.net/lesson/angular-components/
 
+## Styling component
+https://dotnettutorials.net/lesson/styling-angular-components/
+
 ## Binding
 https://angular.io/guide/architecture-components
