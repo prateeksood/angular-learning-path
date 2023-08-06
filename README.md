@@ -22,3 +22,6 @@ https://dotnettutorials.net/lesson/styling-angular-components/
 https://angular.io/guide/architecture-components
 ###
 https://dotnettutorials.net/lesson/data-binding-in-angular/
+
+## Forms
+https://www.tektutorialshub.com/angular/angular-forms-fundamentals/
