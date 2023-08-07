@@ -14,6 +14,9 @@ https://www.freecodecamp.org/news/how-to-install-angular-on-windows-a-guide-to-a
 ## file structure 
 https://www.c-sharpcorner.com/article/learn-components-in-angular-for-beginners-part-two/
 
+## flow
+https://medium.com/siam-vit/how-an-angular-app-work-behind-the-scenes-angular-flow-dcc4d1df27bd
+
 ## Components
 https://dotnettutorials.net/lesson/angular-components/
 
