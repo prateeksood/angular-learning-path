@@ -1,5 +1,7 @@
 # angular-learning-path
 
+https://angular-training-guide.rangle.io/
+
 ## SPA
 https://www.bloomreach.com/en/blog/2018/what-is-a-single-page-application
 
