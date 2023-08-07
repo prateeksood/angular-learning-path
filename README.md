@@ -18,6 +18,9 @@ https://dotnettutorials.net/lesson/angular-components/
 ## Styling component
 https://dotnettutorials.net/lesson/styling-angular-components/
 
+## Directives
+https://blog.bitsrc.io/directives-in-angular-6160ce805416
+
 ## Binding
 https://angular.io/guide/architecture-components
 ###
