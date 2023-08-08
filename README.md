@@ -49,3 +49,6 @@ https://www.tektutorialshub.com/angular/angular-dependency-injection/
 
 ## Providers
 https://www.tektutorialshub.com/angular/angular-providers/
+
+## @input, @output
+https://www.scaler.com/topics/angular/input-and-output-directives-in-angular/
