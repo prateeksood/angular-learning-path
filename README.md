@@ -52,3 +52,6 @@ https://www.tektutorialshub.com/angular/angular-providers/
 
 ## @input, @output
 https://angular.io/guide/inputs-outputs
+
+## @viewChild
+https://blog.angular-university.io/angular-viewchild/
