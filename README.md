@@ -51,5 +51,4 @@ https://www.tektutorialshub.com/angular/angular-dependency-injection/
 https://www.tektutorialshub.com/angular/angular-providers/
 
 ## @input, @output
-https://www.scaler.com/topics/angular/input-and-output-directives-in-angular/
-https://www.tektutorialshub.com/angular/angular-input-output-eventemitter/
+https://angular.io/guide/inputs-outputs
