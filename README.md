@@ -11,6 +11,9 @@ https://www.imaginarycloud.com/blog/angular-vs-react/
 ## angular cli
 https://www.freecodecamp.org/news/how-to-install-angular-on-windows-a-guide-to-angular-cli-node-js-and-build-tools/
 
+## angular console / nx console
+https://www.rupeshtiwari.com/creating-new-app-with-nx-console/
+
 ## file structure 
 https://www.c-sharpcorner.com/article/learn-components-in-angular-for-beginners-part-two/
 
