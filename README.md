@@ -40,3 +40,6 @@ https://dotnettutorials.net/lesson/data-binding-in-angular/
 
 ## Forms
 https://www.tektutorialshub.com/angular/angular-forms-fundamentals/
+
+## Dependency Injection
+https://www.tektutorialshub.com/angular/angular-dependency-injection/
