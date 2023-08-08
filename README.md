@@ -26,6 +26,10 @@ https://dotnettutorials.net/lesson/styling-angular-components/
 ## Directives
 https://blog.bitsrc.io/directives-in-angular-6160ce805416
 
+## Component Lifecycle
+https://codecraft.tv/courses/angular/components/lifecycle-hooks/
+
+
 ## Binding
 https://angular.io/guide/architecture-components
 ###
