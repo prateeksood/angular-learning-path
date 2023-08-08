@@ -55,3 +55,6 @@ https://angular.io/guide/inputs-outputs
 
 ## @viewChild
 https://blog.angular-university.io/angular-viewchild/
+
+## HttpClient
+https://www.telerik.com/blogs/angular-basics-how-to-use-httpclient#:~:text=What%20Is%20HttpClient%3F,we%20need%20to%20subscribe%20it.
