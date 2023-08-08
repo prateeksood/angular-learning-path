@@ -43,3 +43,6 @@ https://www.tektutorialshub.com/angular/angular-forms-fundamentals/
 
 ## Dependency Injection
 https://www.tektutorialshub.com/angular/angular-dependency-injection/
+
+## Providers
+https://www.tektutorialshub.com/angular/angular-providers/
