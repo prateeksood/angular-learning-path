@@ -34,7 +34,7 @@ https://blog.bitsrc.io/directives-in-angular-6160ce805416
 https://angular-training-guide.rangle.io/pipes
 
 ## Component Lifecycle
-https://codecraft.tv/courses/angular/components/lifecycle-hooks/
+https://www.tektutorialshub.com/angular/angular-component-life-cycle-hooks/
 
 
 ## Binding
