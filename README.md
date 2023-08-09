@@ -20,6 +20,7 @@ https://www.c-sharpcorner.com/article/learn-components-in-angular-for-beginners-
 ## flow
 https://medium.com/siam-vit/how-an-angular-app-work-behind-the-scenes-angular-flow-dcc4d1df27bd
 https://www.tektutorialshub.com/angular/angular-bootstrapping-application/
+https://yeshasmp.github.io/posts/angularbootstrapping/
 
 ## Components
 https://dotnettutorials.net/lesson/angular-components/
