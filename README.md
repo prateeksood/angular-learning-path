@@ -67,6 +67,9 @@ https://www.w3schools.com/bootstrap5/bootstrap_get_started.php
 
 ## Observable
 https://www.tektutorialshub.com/angular/angular-observable-tutorial-using-rxjs/
+
+## Hot vs cold observables
+https://luukgruijs.medium.com/understanding-hot-vs-cold-observables-62d04cf92e03#:~:text=To%20understand%20the%20concept%20of,call%20it%20a%20hot%20Observable.
 ### Reactive programming
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 
