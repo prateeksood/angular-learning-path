@@ -65,5 +65,7 @@ https://www.telerik.com/blogs/angular-basics-how-to-use-httpclient#:~:text=What%
 https://www.techiediaries.com/angular-bootstrap/
 https://www.w3schools.com/bootstrap5/bootstrap_get_started.php
 
-## Reactive programming
+## Observable
+https://www.tektutorialshub.com/angular/angular-observable-tutorial-using-rxjs/
+### Reactive programming
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
