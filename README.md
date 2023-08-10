@@ -69,3 +69,8 @@ https://www.w3schools.com/bootstrap5/bootstrap_get_started.php
 https://www.tektutorialshub.com/angular/angular-observable-tutorial-using-rxjs/
 ### Reactive programming
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+
+### Promises vs Observables
+https://blog.bitsrc.io/promises-vs-observables-674f4bc8ca5e
+#### Discussion
+https://stackoverflow.com/questions/37364973/what-is-the-difference-between-promises-and-observables
