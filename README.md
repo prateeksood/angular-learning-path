@@ -79,5 +79,7 @@ https://blog.bitsrc.io/promises-vs-observables-674f4bc8ca5e
 https://stackoverflow.com/questions/37364973/what-is-the-difference-between-promises-and-observables
 
 ## Observable Operators
+### All operations
+https://reactivex.io/documentation/operators.html#combining
 ### Zip, ZipArray, forkJoin
 https://reactivex.io/documentation/operators/zip.html#:~:text=The%20Zip%20method%20returns%20an,emitted%20by%20the%20returned%20Observable.
