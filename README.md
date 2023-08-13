@@ -85,3 +85,5 @@ https://rxjs.dev/guide/operators
 https://reactivex.io/documentation/operators/zip.html#:~:text=The%20Zip%20method%20returns%20an,emitted%20by%20the%20returned%20Observable.
 ### lastValueForm and firstValueFrom
 https://rxjs.dev/deprecations/to-promise
+### pipe
+https://www.tektutorialshub.com/angular/angular-observable-pipe/
