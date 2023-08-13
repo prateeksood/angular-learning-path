@@ -87,3 +87,9 @@ https://reactivex.io/documentation/operators/zip.html#:~:text=The%20Zip%20method
 https://rxjs.dev/deprecations/to-promise
 ### pipe
 https://www.tektutorialshub.com/angular/angular-observable-pipe/
+### map
+https://www.tektutorialshub.com/angular/angular-observable-map-operator/
+### filter
+https://www.tektutorialshub.com/angular/filter-operator-in-angular-observable/
+### tap
+https://www.tektutorialshub.com/angular/tap-operator-in-angular-observable/
