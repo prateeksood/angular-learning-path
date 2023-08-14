@@ -83,6 +83,8 @@ https://stackoverflow.com/questions/37364973/what-is-the-difference-between-prom
 https://rxjs.dev/guide/operators
 ### Zip, ZipArray, forkJoin
 https://reactivex.io/documentation/operators/zip.html#:~:text=The%20Zip%20method%20returns%20an,emitted%20by%20the%20returned%20Observable.
+### combineLatest
+https://rxjs.dev/api/index/function/combineLatest
 ### lastValueForm and firstValueFrom
 https://rxjs.dev/deprecations/to-promise
 ### pipe
