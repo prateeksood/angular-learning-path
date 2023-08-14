@@ -97,3 +97,6 @@ https://www.tektutorialshub.com/angular/filter-operator-in-angular-observable/
 https://www.tektutorialshub.com/angular/tap-operator-in-angular-observable/
 ### subject and BehviourSubject
 https://rxjs.dev/guide/subject
+
+## Routing
+https://www.tektutorialshub.com/angular/angular-routing-navigation/
