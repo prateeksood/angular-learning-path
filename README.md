@@ -100,3 +100,6 @@ https://rxjs.dev/guide/subject
 
 ## Routing
 https://www.tektutorialshub.com/angular/angular-routing-navigation/
+
+### function route guards
+https://medium.com/ngconf/functional-route-guards-in-angular-8829f0e4ca5c
